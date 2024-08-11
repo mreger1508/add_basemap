@@ -1,0 +1,12 @@
+[general]
+name=addBasemapDE
+email=martin150897@gmail.com
+author=Martin Reger
+qgisMinimumVersion=3.0
+description=Adds a WMS service of Basemap.de
+about=This plugin adds a WMS layer of Basemap.de
+version=0.0.1
+tracker=
+repository=
+
+icon=logo.png
