@@ -11,8 +11,8 @@ class basemapde:
         self.toolbar = QToolBar("Basemap.de Toolbar")
         self.iface.addToolBar(self.toolbar)
 
-        # load icon safely
-        icon_path = os.path.join(os.path.dirname(__file__), "icon.png")
+        # load logo safely
+        icon_path = os.path.join(os.path.dirname(__file__), "logo.png")
         icon = QIcon(icon_path)
 
         # Aktion zum Hinzufügen des Basemap.de
