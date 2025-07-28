@@ -1,4 +1,5 @@
 name: Build and Release QGIS Plugin
+# Builds Plugin zip
 
 on:
   push:
